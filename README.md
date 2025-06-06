@@ -41,7 +41,7 @@ A simple and elegant to-do list web application built with **HTML**, **CSS**, an
 
 1. Clone the repository or download the files:
    ```bash
-   git clone https://github.com/your-username/to-do-list.git
+   git clone https://github.com/Kaveri-0911/todoList-.git
 ---
 ##🧩 Future Enhancements
 
